@@ -28,6 +28,18 @@ This site is working in basic functionality. Users can search and post on movie 
 
 [ ] add user likes and dislike movies
 
+### Layout
+
+The Home screen when the user is not logged in.
+[home](https://github.com/MattRoger/screenshots/blob/master/spoileralert/home.png?raw=true)
+
+The log in screen for users.
+[login](https://github.com/MattRoger/screenshots/blob/master/spoileralert/login.png?raw=true)
+
+[profile page](https://github.com/MattRoger/screenshots/blob/master/spoileralert/profile.gif?raw=true)
+
+[spoils](https://github.com/MattRoger/screenshots/blob/master/spoileralert/spoils.png?raw=true)
+
 ### What's under the hood?
 
 * Node.js
@@ -40,8 +52,13 @@ This site is working in basic functionality. Users can search and post on movie 
 * JavaScript
 * jQuery
 
-### Installation
-simply do an npm install and create a .env file containing your omdb key
+## Installation
+* :trident: Fork it
+* :sheep: Clone it
+* do an npm install
+* create a .env file containing your omdb key
+
+## API Reference
 
 ### Made By
 Nick Cooper, Jaimee Razee, and Matt Roger
@@ -51,3 +68,9 @@ Login and routes set up by Nick Cooper
 Post Routes and CRUD functionality set up Jaimee Razee
 
 Front end design UX/UI and project idea created by Matt Roger
+
+## Credits / Contact information
+* @MattRoger 
+  * :man_office_worker: https://mattroger.github.io/
+  * :e-mail: mattroger.webdev@gmail.com
+  * :man_office_worker: www.linkedin.com/in/matt-roger/
