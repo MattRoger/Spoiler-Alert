@@ -31,14 +31,14 @@ This site is working in basic functionality. Users can search and post on movie 
 ### Layout
 
 The Home screen when the user is not logged in.
-[home](https://github.com/MattRoger/screenshots/blob/master/spoileralert/home.png?raw=true)
+![home](https://github.com/MattRoger/screenshots/blob/master/spoileralert/home.png?raw=true)
 
 The log in screen for users.
-[login](https://github.com/MattRoger/screenshots/blob/master/spoileralert/login.png?raw=true)
+![login](https://github.com/MattRoger/screenshots/blob/master/spoileralert/login.png?raw=true)
 
-[profile page](https://github.com/MattRoger/screenshots/blob/master/spoileralert/profile.gif?raw=true)
+![profile page](https://github.com/MattRoger/screenshots/blob/master/spoileralert/profile.gif?raw=true)
 
-[spoils](https://github.com/MattRoger/screenshots/blob/master/spoileralert/spoils.png?raw=true)
+![spoils](https://github.com/MattRoger/screenshots/blob/master/spoileralert/spoils.png?raw=true)
 
 ### What's under the hood?
 
