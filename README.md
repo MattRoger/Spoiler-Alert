@@ -30,7 +30,15 @@ This site is working in basic functionality. Users can search and post on movie 
 
 ### What's under the hood?
 
-This app uses Node.js, Express.js MySql, Sequelize, Pug.js, Axios, and OMDD API
+* Node.js
+* Express.js 
+* MySql
+* Sequelize
+* Pug.js
+* Axios
+* OMDD API
+* JavaScript
+* jQuery
 
 ### Installation
 simply do an npm install and create a .env file containing your omdb key
