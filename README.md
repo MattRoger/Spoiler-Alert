@@ -1,6 +1,5 @@
 # Spoiler Alert! :clapper:
-Have You ever seen a movie and wanted to talk about all the spoilers with out ruinning the movie for someone else?
-Spoiler Alert allows users to discuss movie spoilers with out the ruinning the movie on traditional social media sites.
+Have You ever seen a movie and wanted to talk about all the spoilers without ruining the movie for someone else? Spoiler Alert allows users to discuss movie spoilers without ruining the movie on traditional social media sites.
 
 [See The Site!](https://shrouded-eyrie-44738.herokuapp.com/)
 
